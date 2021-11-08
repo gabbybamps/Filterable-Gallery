@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "A filterable gallery of images",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabbybamps/Filterable-Gallery.git"
+  },
+  "author": "Gabriel Asante Bampoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabbybamps/Filterable-Gallery/issues"
+  },
+  "homepage": "https://github.com/gabbybamps/Filterable-Gallery#readme",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}
