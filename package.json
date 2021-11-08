@@ -4,6 +4,8 @@
   "description": "A filterable gallery of images",
   "main": "app.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
